@@ -1,0 +1,19 @@
+/* App.css or EmployeeCard.module.css */
+
+.light {
+  background-color: white;
+  color: black;
+  padding: 5px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  text-decoration: none;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin-right: 10px;
+  border: 1px solid #999;
+  text-decoration: none;
+}
