@@ -1,0 +1,14 @@
+.textRed {
+  color: red;
+  font-weight: bold;
+}
+
+.textGreen {
+  color: green;
+  font-weight: bold;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
